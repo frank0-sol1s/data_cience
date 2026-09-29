@@ -14,3 +14,5 @@ Todo lo generado del curso Data science
 1. Prue
 2. MX
 3. Bogota
+4. CSR
+5. CHina
