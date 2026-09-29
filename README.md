@@ -9,3 +9,10 @@ Todo lo generado del curso Data science
 # Plei
 1. jajsa
 2. para amc
+
+# coutnris
+1. Prue
+2. MX
+3. Bogota
+4. CSR
+5. CHina
